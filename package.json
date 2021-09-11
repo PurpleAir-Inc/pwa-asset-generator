@@ -73,7 +73,7 @@
     "mime-types": "2.1.32",
     "progress": "2.0.3",
     "puppeteer-core": "10.2.0",
-    "slash": "3.0.0"
+    "slash": "4.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^13.1.0",
